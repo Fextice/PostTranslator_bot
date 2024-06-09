@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostTranslator_bot", "PostTranslator_bot\PostTranslator_bot.csproj", "{CDA5C965-40F1-4429-A4AF-EC3A723C25AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDA5C965-40F1-4429-A4AF-EC3A723C25AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA5C965-40F1-4429-A4AF-EC3A723C25AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA5C965-40F1-4429-A4AF-EC3A723C25AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA5C965-40F1-4429-A4AF-EC3A723C25AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
