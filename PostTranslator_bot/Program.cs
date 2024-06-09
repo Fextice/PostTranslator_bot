@@ -5,9 +5,6 @@ using Telegram.Bot.Types.Enums;
 using Telegram.Bot.Exceptions;
 
 
-var botClient = new TelegramBotClient("7000977988:AAFj4UO5JfSNdgA22rPboQ_S4GxVQqIZeB8");
-var apiKey = "394c1f12d8msh29cdd2b2cf5289ep1fb008jsnbc113eb2a87a";
-var apiHost = "microsoft-translator-text.p.rapidapi.com";
 
 using CancellationTokenSource cts = new();
 
